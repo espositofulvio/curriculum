@@ -24,7 +24,7 @@ I'm a software engineer driven by a great passion for designing and building sof
 
 
 *Junior Software Engineer* at [**Think3 Inc.**](http://www.think3.eu), Bologna, IT, __2009 to 2009__
-	Started a job to modularize the company flagship product, ThinkDesign, a CAD software system, aided by an academic research tool called Bounce (not available anymore).
+	Started a job to modularize the company flagship CAD software system, ThinkDesign, aided by an academic research tool called Bounce (not available anymore).
 
 *Indipendent Developer*, __2005 to 2007__
 	Built a business desktop application  in C# with the .NET Framework and a SQL database to support all the activities of a freight broker (customers, contracts, invoices, accountancy, reporting). 
