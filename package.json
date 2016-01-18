@@ -1,0 +1,9 @@
+{
+  "name" : "curriculum_vitae",
+  "version" : "1.0.0",
+  "description" : "My Own CV",
+  "dependencies" :
+  {
+    "markdown-resume": "~0.1.0"
+  }
+}
